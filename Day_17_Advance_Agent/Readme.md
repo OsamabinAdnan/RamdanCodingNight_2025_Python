@@ -2,7 +2,7 @@
 
 An Advance Agent built with UV, OpenAI Agents SDK, and Chainlit.
 
-[Advance Agent using UV, OpenAI Agent SDK, and Chainlit](images/image.png)
+![Advance Agent built with UV, OpenAI Agents SDK, and Chainlit](images/image.png)
 
 ## Key Features
 
